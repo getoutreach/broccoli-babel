@@ -1,6 +1,6 @@
 {
   "name": "broccoli-babel",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Simple Babel filter with fast incremental recompiles",
   "main": "lib/index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "babel-core": "^6.17.0",
-    "broccoli-persistent-filter": "^1.2.11"
+    "broccoli-persistent-filter": "^1.2.13"
   }
 }
